@@ -1,4 +1,4 @@
-# Trajectory Optimization – Programming Assignment 2
+# Trajectory Optimization for Drone Racing
 
 This project implements trajectory optimization methods for robot motion planning.  
 The work focuses on generating smooth, feasible, and efficient trajectories by applying 
